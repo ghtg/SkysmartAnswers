@@ -8,4 +8,4 @@ Python program to find answers for homework on edu.skysmart.ru
 ![alt text](https://raw.githubusercontent.com/granlovestea/skysmartanswers/master/screenshots/4.png)
 
 todo:
-  change "NEXT_CORRECT!!!" with just red text
+  replace "NEXT_CORRECT!!!" with just red text
